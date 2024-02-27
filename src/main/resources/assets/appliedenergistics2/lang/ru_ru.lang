@@ -107,19 +107,16 @@ gui.appliedenergistics2.GTEUTunnel=GTEU
 gui.appliedenergistics2.LightTunnel=Свет
 gui.appliedenergistics2.OCTunnel=OpenComputers
 gui.appliedenergistics2.PressureTunnel=Давление
-
 gui.appliedenergistics2.security.extract.name=Забирать
 gui.appliedenergistics2.security.inject.name=Класть
 gui.appliedenergistics2.security.craft.name=Крафтить
 gui.appliedenergistics2.security.build.name=Строить
 gui.appliedenergistics2.security.security.name=Безопасность
-
 gui.appliedenergistics2.security.extract.tip=Пользователю разрешено забирать предметы из хранилища.
 gui.appliedenergistics2.security.inject.tip=Пользователю разрешено класть предметы в хранилище.
 gui.appliedenergistics2.security.craft.tip=Пользователь может инициировать новый крафт.
 gui.appliedenergistics2.security.build.tip=Пользователь может изменять физическую конфигурацию сети и менять настройки.
 gui.appliedenergistics2.security.security.tip=Пользователь может работать с терминалом безопасности и настраивать его в сети.
-
 gui.appliedenergistics2.Efficiency=Эффективность
 gui.appliedenergistics2.SCSSize=SCS размер
 gui.appliedenergistics2.SCSInvalid=Неправльный
@@ -451,7 +448,6 @@ item.appliedenergistics2.creative_storage_cell.name=Творческая МЭ Я
 item.appliedenergistics2.encoded_pattern.name=Кодированный шаблон
 item.appliedenergistics2.view_cell.name=Ячейка представления
 item.appliedenergistics2.facade.name=Кабельный фасад
-
 item.appliedenergistics2.crystal_seed.certus.name=Семя истинного кварца
 item.appliedenergistics2.crystal_seed.nether.name=Семя кварца Нижнего мира
 item.appliedenergistics2.crystal_seed.fluix.name=Изменчивое семя
@@ -519,7 +515,6 @@ item.appliedenergistics2.material.silicon_print.name=Отпечатанный к
 item.appliedenergistics2.material.name_press.name=Именующий пресс для высекателя
 item.appliedenergistics2.material.sky_dust.name=Пыль небесного камня
 item.appliedenergistics2.material.card_crafting.name=Карта крафта
-
 item.appliedenergistics2.multi_part.annihilation_plane.name=МЭ Плоскость истребления
 item.appliedenergistics2.multi_part.fluid_annihilation_plane.name=МЭ Жидкостная плоскость истребления
 item.appliedenergistics2.multi_part.identity_annihilation_plane.name=МЭ ID плоскость истребления
@@ -561,11 +556,9 @@ item.appliedenergistics2.multi_part.interface_configuration_terminal.name=МЭ �
 item.appliedenergistics2.multi_part.fluid_interface_configuration_terminal.name=МЭ Терминал жидкостной конфигурации интерфейсов
 item.appliedenergistics2.multi_part.fluid_terminal.name=МЭ Жидкостный терминал
 item.appliedenergistics2.multi_part.invalid_type.name=Отключенный предмет
-
 item.appliedenergistics2.spatial_storage_cell_128_cubed.name=§d128³§r пространственная ячейка хранения
 item.appliedenergistics2.spatial_storage_cell_16_cubed.name=§916³§r пространственная ячейка хранения
 item.appliedenergistics2.spatial_storage_cell_2_cubed.name=§62³§r пространственная ячейка хранения
-
 item.appliedenergistics2.certus_quartz_axe.name=Топор из истинного кварца
 item.appliedenergistics2.certus_quartz_cutting_knife.name=Нож из истинного кварца
 item.appliedenergistics2.certus_quartz_hoe.name=Мотыга из истинного кварца
@@ -573,7 +566,6 @@ item.appliedenergistics2.certus_quartz_pickaxe.name=Кирка из истинн
 item.appliedenergistics2.certus_quartz_spade.name=Лопата из истинного кварца
 item.appliedenergistics2.certus_quartz_sword.name=Меч из истинного кварца
 item.appliedenergistics2.certus_quartz_wrench.name=Гаечный ключ из истинного кварца
-
 item.appliedenergistics2.nether_quartz_axe.name=Топор из незер-кварца
 item.appliedenergistics2.nether_quartz_cutting_knife.name=Нож из незер-кварца
 item.appliedenergistics2.nether_quartz_hoe.name=Мотыга из незер-кварца
@@ -581,7 +573,6 @@ item.appliedenergistics2.nether_quartz_pickaxe.name=Кирка из незер-�
 item.appliedenergistics2.nether_quartz_spade.name=Лопата из незер-кварца
 item.appliedenergistics2.nether_quartz_sword.name=Меч из незер-кварца
 item.appliedenergistics2.nether_quartz_wrench.name=Гаечный ключ из незер-кварца
-
 item.appliedenergistics2.paint_ball.name=Шар с краской
 item.appliedenergistics2.portable_cell.name=Переносная ячейка
 item.appliedenergistics2.network_tool.name=Сетевой инструмент
@@ -595,7 +586,6 @@ item.appliedenergistics2.wireless_crafting_terminal.name=Беспроводно�
 item.appliedenergistics2.wireless_pattern_terminal.name=Беспроводной терминал шаблонов
 item.appliedenergistics2.wireless_fluid_terminal.name=Беспроводной жидкостный терминал
 item.appliedenergistics2.biometric_card.name=Биометрическая карта
-
 item.appliedenergistics2.debug_card.name=Отладочная карта разработчика
 item.appliedenergistics2.debug_replicator_card.name=Карта-репликатор разработчика
 
@@ -673,3 +663,10 @@ key.open_wireless_terminal.desc=Открыть беспроводной терм
 key.open_wireless_crafting_terminal.desc=Открыть беспроводной терминал изготовления
 key.open_wireless_pattern_terminal.desc=Открыть беспроводной терминал шаблонов
 key.open_wireless_fluid_terminal.desc=Открыть беспроводной жидкостный терминал
+gui.appliedenergistics2.CraftingToastCancelled=Задание отменено!
+gui.tooltips.appliedenergistics2.PartialTransfer=Переместить хранимые предметы в сетку крафта
+item.appliedenergistics2.material.card_sticky.name=Липкая карта
+gui.appliedenergistics2.CraftingToastDone=Задание завершено!
+gui.appliedenergistics2.Sticky=Липкий
+gui.tooltips.appliedenergistics2.MissingItem=§cОтсутствует
+gui.tooltips.appliedenergistics2.CraftableItem=§9Создаваемый
