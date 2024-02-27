@@ -6,20 +6,7 @@
 
 ## About
 
-A maintained fork of a Mod about Matter, Energy and using them to conquer the world.
-
-This project started as a fork of [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) by [PrototypeTrousers](https://github.com/PrototypeTrousers), initially addressing issues related to the [Nomifactory](https://www.curseforge.com/minecraft/modpacks/nomifactory) modpack. It is now being maintained by the [AE2 Unofficial Extended Life Team](https://github.com/AE2-UEL).
-
-See [Releases](https://github.com/PrototypeTrousers/Applied-Energistics-2/releases) for the compiled jars.
-
-## RecipeStages
-
-You need to add the following into a CraftTweaker script:
-```
-mods.recipestages.Recipes.setPackageStage("appeng", allStages);
-```
-
-The second argument allows you to customize which stages exactly you want to be craftable with AE2. Not sure why you would do that, but we support that nonetheless!
+A maintained fork of a AE2 for Weblate TL update.
 
 ## License
 * Applied Energistics 2 API
